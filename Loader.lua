@@ -7,4 +7,4 @@ env.sh = {
 		external_executor = false
 	}
 }
-loadstring(game:HttpGet("https://github.com/scar17off/Roblox-Scripts/raw/main/ScarHack/ScarHack.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scarsoftware/ScarHack/main/ScarHack.lua"))()
